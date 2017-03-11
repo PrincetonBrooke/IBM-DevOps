@@ -1,0 +1,9 @@
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.deps.json
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.runtimeconfig.json
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.runtimeconfig.dev.json
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.dll
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\bin\Debug\netcoreapp1.0\WebApplication.pdb
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.csprojResolveAssemblyReference.cache
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.AssemblyInfo.cs
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.dll
+C:\Users\PrincetonBrooke\OneDrive\Documents\Visual Studio 2017\Projects\IBM-DevOps\src\WebApplication\obj\Debug\netcoreapp1.0\WebApplication.pdb
